@@ -20,21 +20,21 @@ Python v3.9.15
 
 [Pandas](https://pandas.pydata.org/) Open source data analysis and manipulation tool
 
-[Dotenv](https://pypi.org/project/python-dotenv/)Read key-value pairs from a .env file and set them as environment variables
+[Dotenv](https://pypi.org/project/python-dotenv/) Read key-value pairs from a .env file and set them as environment variables
 
 [Alpaca_Trade_API](https://alpaca.markets/docs/python-sdk/) The official Python SDK for Alpaca's suite o of API
 
 [%matplotlib](https://matplotlib.org/) Comprehensive library for creating static, animated, and interactive visualizations in Python
 
-[Json](https://docs.python.org/3/library/json.html)Lightweight data interchange format inspired by JavaScript
+[Json](https://docs.python.org/3/library/json.html) Lightweight data interchange format inspired by JavaScript
 
 [NumPy](https://numpy.org/) The fundamental package for scientific computing with Python
 
-[Datetime](https://docs.python.org/3/library/datetime.html)This module supplies classes for manipulating dates and times
+[Datetime](https://docs.python.org/3/library/datetime.html) This module supplies classes for manipulating dates and times
 
-[Pytz](https://pypi.org/project/pytz/)This library allows accurate and cross platform timezone calculations
+[Pytz](https://pypi.org/project/pytz/) This library allows accurate and cross platform timezone calculations
 
-[MCSimulation] A Python class for runnning Monte Carlo simulation on portfolio price data.
+[MCSimulation](MCForecastTools.py) A Python class for runnning Monte Carlo simulation on portfolio price data.
 ---
 
 ## Installation Guide
