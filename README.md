@@ -50,13 +50,11 @@ pip install json
 pip install numpy
 pip install datetime
 ```
-MCSimulation 
-
 ---
 
 ## Usage
 
-![Sample Report](images/sample.png)
+
 
 
 
