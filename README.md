@@ -57,7 +57,7 @@ Part 1 - Create a Financial Plan for Emergencies
 Evaluate Crypto Holdings Using ```Requests``` Library
 Evaluate the Stock and Bond Holidings by Using the Alpaca SDK
 Evaluate the Emergency Fund
-![Savings Portoflio](images/savings.png)
+![Savings Portoflio](Images/savings.png)
 
 Part 2 - Create a Financial Planner for Retirement
 Create the Monte Carlo Simulation - Forecast Cumulative Returns for 30 Years
@@ -66,7 +66,7 @@ Create the Monte Carlo Simulation - Forecast Cumulative Returns for 10 Years
 
 Provide Investment Advice - Recommend the portfolio whose time horizon supports retirement goals
 
-![Sample Histogram](images/5-4-monte-carlo-histogram.png)
+![Sample Histogram](Images/5-4-monte-carlo-histogram.png)
 
 ---
 
