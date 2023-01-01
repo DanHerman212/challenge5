@@ -53,10 +53,18 @@ pip install datetime
 ---
 
 ## Usage
+Part 1 - Create a Financial Plan for Emergencies
+Evaluate Crypto Holdings Using ```Requests``` Library
+Evaluate the Stock and Bond Holidings by Using the Alpaca SDK
+Evaluate the Emergency Fund
+![Savings Portoflio](images/savings.png)
 
+Part 2 - Create a Financial Planner for Retirement
+Create the Monte Carlo Simulation - Forecast Cumulative Returns for 30 Years
+Analyze the Retirement Porfolio Forecasts
+Create the Monte Carlo Simulation - Forecast Cumulative Returns for 10 Years
 
-
-
+Provide Investment Advice - Recommend the portfolio whose time horizon supports retirement goals
 
 ---
 
