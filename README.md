@@ -12,7 +12,7 @@ You’ll use the information from the Monte Carlo simulation to answer questions
 
 ## Technologies
 
-Python v3.9.15
+[Python](https://www.python.org/downloads/release/python-3915/) v3.9.15
 
 [OS](https://docs.python.org/3/library/os.html) Miscellaneous operating system interfaces
 
