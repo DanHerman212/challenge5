@@ -34,11 +34,9 @@ Python v3.9.15
 
 [Pytz](https://pypi.org/project/pytz/) This library allows accurate and cross platform timezone calculations
 
-<<<<<<< HEAD
+
 [MCSimulation](MCForecastTools.py) A Python class for runnning Monte Carlo simulation on portfolio price data.
-=======
-MCSimulation (A Python class for runnning Monte Carlo simulation on portfolio price data.)
->>>>>>> c6dc500fc42f5818433aa977a1e67e6c2c1da0dd
+
 ---
 
 ## Installation Guide
