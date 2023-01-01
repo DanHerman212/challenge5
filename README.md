@@ -46,6 +46,9 @@ pip install Requests
 pip install Pandas
 pip install Dotenv
 pip install Alpaca_Trade_API
+pip install json
+pip install numpy
+pip install datetime
 ```
 MCSimulation 
 
