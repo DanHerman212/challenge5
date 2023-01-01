@@ -66,6 +66,8 @@ Create the Monte Carlo Simulation - Forecast Cumulative Returns for 10 Years
 
 Provide Investment Advice - Recommend the portfolio whose time horizon supports retirement goals
 
+![Sample Histogram](images/5-4-monte-carlo-histogram.png)
+
 ---
 
 ## Contributors
