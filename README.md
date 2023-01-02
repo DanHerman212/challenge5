@@ -3,9 +3,9 @@ Fintech consultation for a large credit union; to help benefit local commuinties
 
 Requirements: Create two financial analysis tools by using a single Jupyter notebook:
 
-+ Part 1: A financial planner for emergencies. The members will be able to use this tool to visualize their current savings. The members can then determine if they have enough reserves for an emergency fund.
+Part 1: A financial planner for emergencies. The members will be able to use this tool to visualize their current savings. The members can then determine if they have enough reserves for an emergency fund.
 
-+ Part 2: A financial planner for retirement. This tool will forecast the performance of their retirement portfolio in 30 years. To do this, the tool will make an Alpaca API call via the Alpaca SDK to get historical price data for use in Monte Carlo simulations.
+Part 2: A financial planner for retirement. This tool will forecast the performance of their retirement portfolio in 30 years. To do this, the tool will make an Alpaca API call via the Alpaca SDK to get historical price data for use in Monte Carlo simulations.
 
 You’ll use the information from the Monte Carlo simulation to answer questions about the portfolio to provide investment advice.
 
@@ -53,19 +53,26 @@ pip install datetime
 ---
 
 ## Usage
-+ Part 1 - Create a Financial Plan for Emergencies
-* Evaluate Crypto Holdings Using ```Requests``` Library
-* Evaluate the Stock and Bond Holidings by Using the ```Alpaca SDK```
-* Evaluate the Emergency Fund
+ Part 1 - Create a Financial Plan for Emergencies
+
+Evaluate Crypto Holdings Using ```Requests``` Library
+
+Evaluate the Stock and Bond Holidings by Using the ```Alpaca SDK```
+
+Evaluate the Emergency Fund
 
 ![Savings Portoflio](Images/savings.png)
 
-+ Part 2 - Create a Financial Planner for Retirement
-* Create the Monte Carlo Simulation - Forecast Cumulative Returns for 30 Years
-* Analyze the Retirement Porfolio Forecasts
-* Create the Monte Carlo Simulation - Forecast Cumulative Returns for 10 Years
+Part 2 - Create a Financial Planner for Retirement
 
-* Provide Investment Advice - Recommend the portfolio whose time horizon supports retirement goals
+Create the Monte Carlo Simulation - Forecast Cumulative 
+Returns for 30 Years
+
+Analyze the Retirement Porfolio Forecasts
+
+Create the Monte Carlo Simulation - Forecast Cumulative Returns for 10 Years
+
+Provide Investment Advice - Recommend the portfolio whose time horizon supports retirement goals
 
 ![Sample Histogram](Images/5-4-monte-carlo-histogram.png)
 
