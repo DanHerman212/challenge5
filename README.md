@@ -41,12 +41,12 @@ You’ll use the information from the Monte Carlo simulation to answer questions
 
 ## Installation Guide
 ```
-pip install OS
-pip install Requests
-pip install Pandas
-pip install Dotenv
-pip install Alpaca_Trade_API
-pip install json
+pip install os
+pip install -c anaconda requests
+pip install pandas
+pip install python-dotenv
+pip install alpaca-trade-api
+pip install -c jmcmurray json
 pip install numpy
 pip install datetime
 ```
